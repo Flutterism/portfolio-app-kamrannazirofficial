@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "flutter run",
+      "setup": "flutter run",
+      "run": "flutter run",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 10
+    }
+  ]
+}
